@@ -1,6 +1,7 @@
-# subspifri.py
-# subspisixx46.py
-# tnason 2018
+#!/usr/bin/python3
+#
+# spiroboy.py
+# ted nason 2018
 # https://github.com/tynason/spiroboy
 #___________________________________________________________________#
 import matplotlib.pyplot as plt
